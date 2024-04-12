@@ -1,0 +1,15 @@
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\bin\Debug\net8.0\LinqRelearn.exe
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\bin\Debug\net8.0\LinqRelearn.deps.json
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\bin\Debug\net8.0\LinqRelearn.runtimeconfig.json
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\bin\Debug\net8.0\LinqRelearn.dll
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\bin\Debug\net8.0\LinqRelearn.pdb
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.AssemblyInfoInputs.cache
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.AssemblyInfo.cs
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.csproj.CoreCompileInputs.cache
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.sourcelink.json
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.dll
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\refint\LinqRelearn.dll
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.pdb
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\LinqRelearn.genruntimeconfig.cache
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\LinqRelearn\obj\Debug\net8.0\ref\LinqRelearn.dll

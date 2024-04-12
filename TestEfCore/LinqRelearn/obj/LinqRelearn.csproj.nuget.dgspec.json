@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj": {}
+    "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\LinqRelearn\\LinqRelearn.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj": {
+    "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\LinqRelearn\\LinqRelearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
-        "projectName": "TestEfCore",
-        "projectPath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
+        "projectUniqueName": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\LinqRelearn\\LinqRelearn.csproj",
+        "projectName": "LinqRelearn",
+        "projectPath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\LinqRelearn\\LinqRelearn.csproj",
         "packagesPath": "C:\\Users\\37575\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\obj\\",
+        "outputPath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\LinqRelearn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,18 +48,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

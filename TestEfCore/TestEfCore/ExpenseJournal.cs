@@ -11,5 +11,6 @@ namespace TestEfCore
         public int Id { get; set; }
         public required string JournalName { get; set; }
         public int UserID { get; set; }
+
     }
 }

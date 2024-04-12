@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knC+kishDGkFuACHfZ/5pMu+7XRvRMIEdHJS+WlSr1Uxpi+CGZ2LRpwConlNopvZeYY13HEF7N6I35Ro6pL+5w==",
+  "dgSpecHash": "i3/lV/A9kM6S9haSxwlKWEpoNMBHK4nvW83aNRqWV1bIV7QVOtbCUkXrZ9sV0TOBQu3Jta0CQymHmYSRSl/tYg==",
   "success": true,
-  "projectFilePath": "E:\\Coding\\EfCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
+  "projectFilePath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\37575\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\37575\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

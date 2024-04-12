@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\EfCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
+      "projectUniqueName": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
       "projectName": "TestEfCore",
-      "projectPath": "E:\\Coding\\EfCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
+      "projectPath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\TestEfCore.csproj",
       "packagesPath": "C:\\Users\\37575\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\EfCoreLearning\\TestEfCore\\TestEfCore\\obj\\",
+      "outputPath": "E:\\Coding\\EfCoreLearning\\EFCoreLearning\\TestEfCore\\TestEfCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -128,3 +128,12 @@ E:\Coding\EfCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\refint\TestEfCor
 E:\Coding\EfCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.pdb
 E:\Coding\EfCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.genruntimeconfig.cache
 E:\Coding\EfCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\ref\TestEfCore.dll
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.csproj.AssemblyReference.cache
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.AssemblyInfoInputs.cache
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.AssemblyInfo.cs
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.csproj.CoreCompileInputs.cache
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.sourcelink.json
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.dll
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\refint\TestEfCore.dll
+E:\Coding\EfCoreLearning\EFCoreLearning\TestEfCore\TestEfCore\obj\Debug\net8.0\TestEfCore.pdb
