@@ -23,7 +23,36 @@
             anonymousDele2(5);
 
             //3.写成lamda表达式
+            Action<int> lamdaWay = (int i) =>
+            {
+                Console.WriteLine($"this is i:{i}");
+            };
+            lamdaWay(5);
 
+            Func<int, string> lamdaWayFuncVersion = (int k) =>
+            {
+                return k.ToString();
+            };
+            Console.WriteLine("this is k:"+ lamdaWayFuncVersion(5));
+
+            //4.手写一个Linq的where
+            int[] num = new int[]{ 1, 2, 3, 4, 5, 6 };
+            IEnumerable<int> result= myWhere(num, p => p > 3);
+            foreach(var i in result)
+            {
+                Console.WriteLine(i+"");
+            }
+
+        }
+        static IEnumerable<int> myWhere(IEnumerable<int> myList,Func<int,bool> condition)
+        {
+            foreach(var i in myList)
+            {
+                if(condition(i))
+                {
+                    yield return i;
+                }
+            }
         }
 
         static void funAdd(int i)
